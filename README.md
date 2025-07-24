@@ -27,8 +27,9 @@ A lightweight Query System that allows users to create their own SQLite database
 ## 📸 Proof of Execution
 
 ### 🖥️ FastAPI Backend
-![FastAPI Backend Docs](Images/FastAPI-Backend Results.png)
-![FastAPI Output](Images/FastAPI-Backend Result-1.png)
+![FastAPI Backend Docs](Images/FastAPI-Backend%20Results.png)
+![FastAPI Output](Images/FastAPI-Backend%20Result-1.png)
+
 
 ### 🎨 Streamlit Frontend
 ![Streamlit UI](Images/Frontend-Result.png)
