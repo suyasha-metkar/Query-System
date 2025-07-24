@@ -17,7 +17,7 @@ cursor.execute('''
             )
         ''')
         
-        # Insert sample data
+# Insert sample data
 cursor.executemany('INSERT INTO sample (id, product, category, value) VALUES (?, ?, ?, ?)', [
     (101, 'Chair', 'Furniture', 100),
     (102, 'Table', 'Furniture', 200),
