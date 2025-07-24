@@ -46,8 +46,8 @@ A lightweight Query System that allows users to create their own SQLite database
 
 3. Create sample database
    python create_sample_db.py
-
- 4.Start FastAPI backend
+   
+4.Start FastAPI backend
    uvicorn main:app --reload
  Visit: http://127.0.0.1:8000/docs on web browser to check FastAPI
 
