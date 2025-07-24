@@ -1,5 +1,5 @@
 # Query System 
-A lightweight Query System that allows users to create their own SQLite database and run SQL queries on it through a simple web interface built with **FastAPI (Backend)** and **Streamlit (Frontend)**.
+A lightweight Query System that allows users to play around the SQL who are new learners by allowing them to create their own SQLite database and run SQL queries on it through a simple web interface built with **FastAPI (Backend)** and **Streamlit (Frontend)**.
 
 ---
 
