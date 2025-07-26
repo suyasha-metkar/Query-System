@@ -5,11 +5,11 @@ A lightweight Query System that allows users to play around the SQL who are new 
 
 ## 🚀 Features
 
-- ✍️ Create your own database and populate it with sample data  
-- 🔍 Run custom SQL queries through the browser  
-- ⚙️ Built with FastAPI and Streamlit for a responsive full-stack experience  
-- 🧪 Error handling for invalid queries or bad requests  
-- 🌐 Fully local — no external database or server dependencies  
+- Create your own database and populate it with sample data  
+- Run custom SQL queries through the browser  
+- Built with FastAPI and Streamlit for a responsive full-stack experience  
+- Error handling for invalid queries or bad requests  
+- Fully local — no external database or server dependencies  
 
 ---
 
